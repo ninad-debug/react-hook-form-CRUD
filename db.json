@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstname": "jhon",
+            "lastname" : "sandy",
+            "email": "jhon@gmail.com"
+        },
+        {
+            "id": 2,
+            "firstname": "ninad",
+            "lastname" : "samant",
+            "email": "ns@gmail.com"
+        },
+        {
+            "id": 3,
+            "firstname": "shirish",
+            "lastname" : "more",
+            "email": "shirish@gmail.com"
+        },
+        {
+            "id": 4,
+            "firstname": "darshan",
+            "lastname" : "rane",
+            "email": "dr@gmail.com"
+        },
+        {
+            "id": 5,
+            "firstname": "vivek",
+            "lastname" : "dubey",
+            "email": "vivekD@gmail.com"
+        }
+    ]
+}
